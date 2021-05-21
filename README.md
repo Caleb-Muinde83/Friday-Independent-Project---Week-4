@@ -15,3 +15,4 @@ The deliverables for this week’s Independent project include:
 5. Intergrate the listed python libs in your text editor.
 6. Have microsoft office Word to view the Data Report.
 
+<------Links to my JIRA and Github are in the data report-------.
